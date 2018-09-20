@@ -1,0 +1,26 @@
+_repo: Primitive-Mediaeval-Japanese-Texts-Transliterated-into-Roman-with-introductions-notes-and-glo__53295
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Dickins, F. Victor (Frederick Victor)
+    alias: Dickins, Frederick Victor
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '47311'
+    url: http://www.gutenberg.org/2009/agents/47311
+description: ''
+gutenberg_issued: '2016-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japanese literature -- To 1868'
+- !lcc 'PL'
+- GITenberg
+title: "Primitive & Mediaeval Japanese Texts\r\nTransliterated into Roman with introductions,\
+  \ notes and glossaries"
+url: http://www.gutenberg.org/ebooks/53295
